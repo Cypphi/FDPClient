@@ -1,7 +1,7 @@
 # FDPClient
-## A skidded version of LiquidBounce ### after CCBlueX gives up on the DMCA strikes!
+## A skidded version of LiquidBounce after CCBlueX gives up on the DMCA strikes!
 
-Website: https://getfdp.today/  
+Website: https://deletefdp.today/
 Latest: [github-actions](https://github.com/UnlegitMC/FDPClient/actions/workflows/build.yml?query=event%3Apush) | https://getfdp.today/beta.html  
 Discord: https://discord.gg/55x7TaHWXG  
 Gitee mirror: https://gitee.com/fdpclient-cn/FDPClient
