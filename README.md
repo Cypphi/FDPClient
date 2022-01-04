@@ -13,16 +13,6 @@ CCBlueX gave up on DMCA striking us.
 You are allowed to
 - Skid, because we did it as well!
 
-## Setting up a Workspace
-FDPClient uses gradle, so make sure that it is installed properly. Instructions can be found on [Gradle's website](https://gradle.org/install/).
-1. Clone the repository using `git clone https://github.com/UnlegitMC/FDPClient.git`. 
-2. CD into the local repository folder.
-3. Depending on which IDE you are using execute either of the following commands:
-    - For IntelliJ: `gradlew --debug setupDevWorkspace idea genIntellijRuns build`
-    - For Eclipse: `gradlew --debug setupDevWorkspace eclipse build`
-4. Open the folder as a Gradle project in your IDE.
-5. Select the Forge run configuration.
-
 ## Contributing
 We're happy to receive code from you as we can't do it ourselves!
 
